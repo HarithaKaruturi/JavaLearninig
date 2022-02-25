@@ -9,8 +9,4 @@ public class Account {
         return name;
     }
 
-    public void junk(){
-
-    }
-
 }
